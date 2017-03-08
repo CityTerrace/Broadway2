@@ -24,3 +24,23 @@ li {
 a:link{
 	color:white;
 }
+
+#bgImage{
+	background-image: url(../resources/bg.png);
+	color:white;
+	font-weight:70;
+	font-size: 30px;
+}
+
+footer{
+	background-color: gray;
+	font-size: 14px;
+	width:100%;
+	
+}
+
+footer li{
+	color:white;
+	display:inline-block;
+
+}
